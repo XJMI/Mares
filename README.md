@@ -1,4 +1,4 @@
-# Keraunos (Aka Kera or NN Client)
+# Mares (Aka NN Client)
 [Discord](https://commingsoon) \
 [Kera Website](https://commingsoon)
 
