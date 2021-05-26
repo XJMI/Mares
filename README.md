@@ -1,6 +1,6 @@
 # Mares 
 [![Discord](https://img.shields.io/discord/776801188385259532/logo=discord)](https://discord.gg/n7JWjWFr9e)
-![](https://img.shields.io/badge/Skidded-100%25-red)](https://lol)
+![](https://img.shields.io/badge/Skidded-100%25-red)]
 \
 [Mares Website](https://xjmi.github.io/Mares/)
 
