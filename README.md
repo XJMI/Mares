@@ -10,10 +10,11 @@ Download the jar [here](https://commingsoon) and find your mods folder for minec
 ## Current Features Added
 • AutoGG (From Mars) \
 • GameSense CA (From Mars)
-• 
 
 
 ## Info
 Note: This is a ares skid with mars modules all credits to **Makrennel** and **Tigermouthbear** and the other creators for modules
 \
---Also bare with me I am new to everything I  am doing I will try hard to know some things sob, I do plan to add some other modules like mars had planned, Also the discord server is going to be changed soon but I plan to also add some channels for this client there.--
+~~Also bare with me I am new to everything I  am doing I will try hard to know some things sob, I do plan to add some other modules like mars had planned, Also the discord server is going to be changed soon but I plan to also add some channels for this client there.~~
+
+# I will not be working on this anymore dm me if u want something to be worked on.
