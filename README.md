@@ -1,4 +1,4 @@
-# Mares 
+# M-ares 
 ![](https://img.shields.io/badge/Skidded-99.9%25-red)
 ![](https://img.shields.io/badge/Version-0.0.1-red)
 \
