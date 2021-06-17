@@ -18,4 +18,4 @@ Note: This is a ares skid with mars modules all credits to **Makrennel** and **T
 \
 ~~Also bare with me I am new to everything I  am doing I will try hard to know some things sob, I do plan to add some other modules like mars had planned, Also the discord server is going to be changed soon but I plan to also add some channels for this client there.~~
 
-# I will not be working on this anymore dm me if u want something to be worked on.
+# I will not be working on this anymore therefor this is unsupported and not going to 1.17
