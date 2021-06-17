@@ -10,7 +10,8 @@ Download the jar [here](https://commingsoon) and find your mods folder for minec
 ## Current Features Added
 • AutoGG (From Mars) \
 • GameSense CA (From Mars)
-
+• New Font
+• DiscordRPC V2
 
 ## Info
 Note: This is a ares skid with mars modules all credits to **Makrennel** and **Tigermouthbear** and the other creators for modules
