@@ -9,8 +9,8 @@ Download the jar [here](https://commingsoon) and find your mods folder for minec
 
 ## Current Features Added
 • AutoGG (From Mars) \
-• GameSense CA (From Mars)
-• New Font
+• GameSense CA (From Mars) \
+• New Font \
 • DiscordRPC V2
 
 ## Info
