@@ -5,7 +5,7 @@
 [Mares Website](https://xjmi.github.io/Mares/)
 
 ## Installation
-Download the jar [here](https://github.com/XJMI/Mares/releases/download/0.0.1/mares-fabric-0.0.1-release.jar) and find your mods folder for minecraft drag the jar file into it and launch game on fabric 1.16.5. (Note: This does not support 1.12.2)
+Download the jar [here](https://github.com/XJMI/Mares/releases/download/0.0.1/mares-fabric-0.0.1-release.jar) and find your mods folder for minecraft drag the jar file into it and launch game on fabric 1.16.5. (Note: This does not support 1.12.2 or 1.17+)
 
 ## Current Features Added
 • AutoGG (From Mars) \
