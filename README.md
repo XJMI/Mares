@@ -1,5 +1,6 @@
 # M-ares
 ![](https://img.shields.io/github/downloads/XJMI/Mares/total?color=%23ff0000&label=Downloads&style=flat-square)
+![](https://img.shields.io/github/repo-size/XJMI/Mares?color=FF0000&style=flat-square)
 
 ## Installation
 Make sure you have fabric 1.16.5 [Fabric Install](https://fabricmc.net/use) \
