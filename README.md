@@ -14,6 +14,6 @@ Download the jar [here](https://github.com/XJMI/Mares/releases/download/0.0.1/ma
 • DiscordRPC (Custom MSGS)
 
 ## Info
-Note: This is a ares skid with mars modules all credits to **Makrennel** and **Tigermouthbear** and the other creators for modules
+Note: This is a ares skid with mars modules all credits to **Makrennel** and **Tigermouthbear** and the other creators for modules also feel free to decomp this yourself cause i cba to upload the source myself lmfao
 
 # I will not be working on this anymore therefor this is unsupported and not going to 1.17 (only will push ares major updates)
