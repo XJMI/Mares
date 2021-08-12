@@ -12,6 +12,7 @@ Download the jar [here]() and find your mods folder for minecraft drag the jar f
 - Removed Broken Modules
 - Fixed Imgs
 - GameSense CA Renders Updated
+- Pulled 1.17.1 Updates
 
 
 ###
