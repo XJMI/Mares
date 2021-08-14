@@ -19,5 +19,5 @@ Download the jar [here]() and find your mods folder for minecraft drag the jar f
 ###
 
 ## Info
-Note: This is a ares skid with mars modules all credits to **Makrennel** and **Tigermouthbear** and the other creators for modules also feel free to decomp this yourself cause i cba to upload the source myself lmfao my ass wifi will take hours \ 
+Note: This is a ares skid with mars modules all credits to **Makrennel** and **Tigermouthbear** and the other creators for modules also feel free to decomp this yourself cause i cba to upload the source myself lmfao my ass wifi will take hours
 Also I did this shit long ago to learn the basics of java so yeah thats why its like a shitty mars and ares skid
