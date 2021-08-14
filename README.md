@@ -3,8 +3,8 @@
 ![](https://img.shields.io/github/repo-size/XJMI/Mares?color=FF0000&style=flat-square)
 
 ## Installation
-Make sure you have fabric 1.17.1 [Fabric Install](https://fabricmc.net/use) \
-Download the jar [here]() and find your mods folder for minecraft drag the jar file into it and launch game on fabric 1.17.1. \
+Make sure you have fabric 1.17.1, [Fabric Install](https://fabricmc.net/use) \
+Download the jar [here]() and find your mods folder for minecraft drag the jar file into it and launch game on fabric 1.17.1. 
 
 ###
 
@@ -13,6 +13,7 @@ Download the jar [here]() and find your mods folder for minecraft drag the jar f
 - Fixed Imgs
 - GameSense CA Renders Updated
 - Pulled 1.17.1 Updates
+- Discord RPC Fixes
 
 
 ###
