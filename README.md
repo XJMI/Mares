@@ -4,9 +4,10 @@
 
 ## Installation
 1. Download Fabric 1.17.1 [Install](https://fabricmc.net/use) 
-2. Open (C:\Users\name\AppData\Roaming\.minecraft) and select your mods folder or if you dont have one make one.
-3. Download M-Ares from a release, Drag the jar into your mods folder.
-4. Profit?
+2. Make sure your mc loader is using that select fabric version.
+3. Open (C:\Users\name\AppData\Roaming\.minecraft) and select your mods folder or if you dont have one make one.
+4. Download M-Ares from a release, Drag the jar into your mods folder.
+5. Profit?
 
 
 ###
