@@ -14,7 +14,7 @@
 # v0.0.2
 - Removed 1.12.2 Only Modules
 - Fixed Imgs, Font
-- GameSense CA Renders Updated
+- GameSense Crystal Aura Renders Updated
 - Pulled 1.17.1 Updates
 - Discord RPC Modes
 
