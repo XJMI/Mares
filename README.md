@@ -1,6 +1,5 @@
 # M-Ares [DISCONTINUED]
 ![](https://img.shields.io/github/downloads/XJMI/Mares/total?color=%23ff0000&label=Downloads&style=flat-square)
-![](https://img.shields.io/github/repo-size/XJMI/Mares?color=FF0000&style=flat-square)
 
 ## Installation
 1. Download Fabric 1.17.1 [Install](https://fabricmc.net/use) 
@@ -15,7 +14,7 @@
 - Removed 1.12.2 Only Modules
 - Fixed Imgs, Font
 - GameSense Crystal Aura Renders Updated
-- Pulled 1.17.1 Updates
+- Pulled 1.17.1 Updates from Ares
 - Discord RPC Modes
 
 ###
